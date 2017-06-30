@@ -13,6 +13,7 @@
     "url": "https://github.com/jsdoc3/jsdoc"
   },
   "dependencies": {
+    "acorn-jsx": "https://github.com/geosolutions-it/acorn-jsx/tarball/master",
     "bluebird": "~3.4.6",
     "catharsis": "~0.8.8",
     "escape-string-regexp": "~1.0.5",
