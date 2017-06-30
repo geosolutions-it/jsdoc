@@ -17,7 +17,7 @@
     "bluebird": "~3.4.6",
     "catharsis": "~0.8.8",
     "escape-string-regexp": "~1.0.5",
-    "espree": "https://github.com/geosolutions-it/espree/tarball/master",
+    "espree": "https://github.com/geosolutions-it/espree/tarball/fix_acorn_jsx",
     "js2xmlparser": "~1.0.0",
     "klaw": "~1.3.0",
     "marked": "~0.3.6",
