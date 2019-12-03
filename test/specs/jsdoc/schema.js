@@ -54,7 +54,7 @@ describe('jsdoc/schema', function() {
     });
 
     describe('validation', function() {
-        var validate = require('tv4').validateMultiple;
+        var validate = require('@geosolutions/tv4').validateMultiple;
 
         it('should find validation errors in bogus input', function() {
             var doclets = [

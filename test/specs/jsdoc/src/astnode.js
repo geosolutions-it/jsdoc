@@ -5,7 +5,7 @@ describe('jsdoc/src/astNode', function() {
     var astNode = require('jsdoc/src/astnode');
     var doop = require('jsdoc/util/doop');
     var env = require('jsdoc/env');
-    var espree = require('espree');
+    var espree = require('@geosolutions/espree');
     var Syntax = require('jsdoc/src/syntax').Syntax;
 
     function parse(str) {

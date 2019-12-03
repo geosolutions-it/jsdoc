@@ -9,7 +9,7 @@ describe('jsdoc/src/syntax', function() {
     });
 
     it('should define all of the node types that are defined by Espree', function() {
-        var espreeSyntax = require('espree').Syntax;
+        var espreeSyntax = require('@geosolutions/espree').Syntax;
 
         Object.keys(espreeSyntax).forEach(function(nodeType) {
             expect(Syntax[nodeType]).toBeDefined();
