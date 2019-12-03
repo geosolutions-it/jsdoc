@@ -1,3 +1,10 @@
+# Fork info
+This repo has been forked because we needed to add [this](https://github.com/geosolutions-it/jsdoc/tree/a6788273cbe97d680393a75c35c5dc69ae9a1bfe) fix. <br>
+We are going to publish the **release** branch on npm GeoSolutions registry
+
+This lib is used [here](https://github.com/geosolutions-it/MapStore2/blob/dbab92bb6f09225f1e6a3f4b46c9670227e342fc/package.json#L37)
+
+
 JSDoc 3
 =======
 [![Build Status](https://travis-ci.org/jsdoc3/jsdoc.svg?branch=master)](http://travis-ci.org/jsdoc3/jsdoc)
